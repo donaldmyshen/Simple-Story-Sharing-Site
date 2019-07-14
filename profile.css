@@ -1,0 +1,33 @@
+body{
+    background: lightblue;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+
+#story{
+    height: 50px;
+    width: 500px;
+}
+
+#btn{
+    text-align: right;
+}
+
+div.logout_btn{
+    text-align: right;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+p{
+    font-size: 24px;
+}
+#comment{
+    height: 50px;
+    width: 500px;
+}
